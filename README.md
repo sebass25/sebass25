@@ -1,11 +1,12 @@
 # 👨‍🔧 Robert Colman - Electromechanical Engineering Student
 
-Hello! 👋 I am an Electromechanical Engineering student passionate about **automotive mechanics** 🚗 and **industrial mechanics** 🏭. I have experience in CAD design, embedded systems programming 🤖, and advanced English proficiency 🇬🇧.
+Hello! 👋 I am an Electromechanical Engineering student passionate about **automotive mechanics** 🚗 and **energy systems** ⚡. I have experience in CAD design, embedded systems programming 🤖, and advanced English proficiency 🇬🇧.
 
 ---
 
 ## 🛠️ Skills
 - **CAD Design:** SolidWorks, AutoCAD, Fusion 360 🖥️.
+- **Energy Systems:** Power generation technologies and energy efficiency analysis ⚡.
 - **Embedded Systems:** Programming with Arduino and Raspberry Pi 🔌.
 - **Programming Languages:** C, Python 💻.
 - **Languages:** Spanish (Native) 🇪🇸, English (Advanced) 🇬🇧.
@@ -15,7 +16,7 @@ Hello! 👋 I am an Electromechanical Engineering student passionate about **aut
 
 ## 🎓 Education
 - **Degree:** Electromechanical Engineering 📚
-- **Institution:** School of Engineering, National University of Asunción 🏫
+- **Institution:** Facultad de Ingenieríá, Universidad Nacional de Asunción 🏫
 
 ---
 
@@ -28,12 +29,13 @@ Hello! 👋 I am an Electromechanical Engineering student passionate about **aut
 ---
 
 ## 🌟 Interests and Projects
-- **Automotive and Industrial Mechanics:** Designs and solutions for complex mechanical systems 🚗🔧.
-- **IoT Projects:** Development of prototypes using Arduino and Raspberry Pi for automation 🤖🌐.
+- **Automotive Mechanics:** Designs and maintenance of high-performance vehicles 🚗🔧.
+- **Energy Systems:** Development of solutions for sustainable power generation and efficiency ⚡🌱.
+- **IoT Projects:** Prototypes using Arduino and Raspberry Pi for automation 🤖🌐.
 
 ---
 
 ## 📞 Contact
 - 📂 [GitHub](https://github.com/sebass25)
-- ✉️ Email: colmansebas25@email.com
+- ✉️ Email: colmansebas25@gmail.com
 
